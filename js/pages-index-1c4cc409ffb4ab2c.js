@@ -295,16 +295,16 @@
                   }),
                   s
                 );
-              })("The AI design tool for".split(" "), 0.15),
+              })("The WEBSITE CLONE DESIGNED BY".split(" "), 0.15),
               " ",
               (0, r.jsx)("br", {}),
               (0, r.jsx)(W, {
                 words: [
-                  "photoshoots",
-                  "videos",
-                  "marketing",
-                  "advertising",
-                  "content",
+                  "AMARESH",
+                  "AMARESH",
+                  "AMARESH",
+                  "AMARESH",
+                  "AMARESH",
                 ],
                 className: "text-lime-500",
               }),
