@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fediting-tool-features\u002F[slug]","\u002Fkey-features\u002F[slug]","\u002Fproduct-category-features\u002F[slug]","\u002Fresources\u002Fblog","\u002Fresources\u002Fblog\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
