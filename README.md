@@ -36,7 +36,7 @@ No external heavy frameworks were used — keeping it **lightweight and efficien
 
 ## 📂 Project Structure
 
-```text
+
 PixelPerfectChallenge/
 │── assets/        # Media files (images, icons, fonts)
 │── index.html     # Main landing page
