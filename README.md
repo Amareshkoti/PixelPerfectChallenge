@@ -34,12 +34,15 @@ No external heavy frameworks were used — keeping it **lightweight and efficien
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure
+
+```text
 PixelPerfectChallenge/
-│── assets/ # Media files (images, icons, fonts)
-│── index.html # Main landing page
-│── style.css # Custom styles
-│── script.js # JavaScript interactions
+│── assets/        # Media files (images, icons, fonts)
+│── index.html     # Main landing page
+│── style.css      # Custom styles
+│── script.js      # JavaScript interactions
+
 
 ---
 
