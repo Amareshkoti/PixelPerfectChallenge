@@ -37,11 +37,7 @@ No external heavy frameworks were used — keeping it **lightweight and efficien
 ## 📂 Project Structure
 
 
-PixelPerfectChallenge/
-│── assets/        # Media files (images, icons, fonts)
-│── index.html     # Main landing page
-│── style.css      # Custom styles
-│── script.js      # JavaScript interactions
+The PixelPerfectChallenge project is organized into a clear structure. It contains an assets folder that stores all media files such as images, icons, and fonts. The index.html file serves as the main landing page of the project. Styling is handled by the style.css file, which defines the custom design and appearance. Finally, the script.js file manages the JavaScript interactions, making the project dynamic and interactive.
 
 
 ---
