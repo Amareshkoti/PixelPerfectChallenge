@@ -295,16 +295,16 @@
                   }),
                   s
                 );
-              })("The AI design tool for product".split(" "), 0.15),
+              })("The AI design tool for".split(" "), 0.15),
               " ",
               (0, r.jsx)("br", {}),
               (0, r.jsx)(W, {
                 words: [
                   "photoshoots",
-                  "marketing",
-                  "content",
                   "videos",
+                  "marketing",
                   "advertising",
+                  "content",
                 ],
                 className: "text-lime-500",
               }),
