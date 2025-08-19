@@ -20,7 +20,7 @@ The goal of this challenge was to replicate the **Flair.ai** landing page as clo
 
 ## 🎨 Styling & Design  
 - I **closely studied the CSS** of the original site and recreated styles to ensure accuracy.  
-- Since I have experience building **15+ public projects** and currently working with **multiple MNCs on live projects**, handling CSS styling and JavaScript interactions came naturally.  
+- Handling CSS styling and JavaScript interactions is the major thing in this Project.  
 - The project emphasizes **pixel-perfect precision** in layout, fonts, spacing, and responsiveness.  
 
 ---
